@@ -1,0 +1,32 @@
+date_published: 2017-04-27T00:00:00Z
+date_received: 2017-05-17T15:33:22Z
+details:
+  cves:
+  - id: CVE-2016-2183
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-2183
+  - id: CVE-2017-5461
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-5461
+  packages:
+  - distro: "17.04"
+    packages:
+    - name: libnss3
+      version: 2:3.28.4-0ubuntu0.17.04.1
+  - distro: "16.10"
+    packages:
+    - name: libnss3
+      version: 2:3.28.4-0ubuntu0.16.10.1
+  - distro: "16.04"
+    packages:
+    - name: libnss3
+      version: 2:3.28.4-0ubuntu0.16.04.1
+  - distro: "14.04"
+    packages:
+    - name: libnss3
+      version: 2:3.28.4-0ubuntu0.14.04.1
+  severity: medium
+  source_uri: http://www.ubuntu.com/usn/usn-3270-1/
+  title: 'USN-3270-1: NSS vulnerabilities'
+source_id: USN-3270-1
+type: usn
