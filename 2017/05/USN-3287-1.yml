@@ -1,0 +1,29 @@
+date_published: 2017-05-15T00:00:00Z
+date_received: 2017-05-17T15:33:16Z
+details:
+  cves:
+  - id: CVE-2017-8386
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-8386
+  packages:
+  - distro: "17.04"
+    packages:
+    - name: git
+      version: 1:2.11.0-2ubuntu0.1
+  - distro: "16.10"
+    packages:
+    - name: git
+      version: 1:2.9.3-1ubuntu0.1
+  - distro: "16.04"
+    packages:
+    - name: git
+      version: 1:2.7.4-0ubuntu1.1
+  - distro: "14.04"
+    packages:
+    - name: git
+      version: 1:1.9.1-1ubuntu0.5
+  severity: medium
+  source_uri: http://www.ubuntu.com/usn/usn-3287-1/
+  title: 'USN-3287-1: Git vulnerability'
+source_id: USN-3287-1
+type: usn
