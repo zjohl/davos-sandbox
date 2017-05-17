@@ -1,0 +1,66 @@
+date_published: 2017-04-24T00:00:00Z
+date_received: 2017-05-17T15:33:26Z
+details:
+  cves:
+  - id: CVE-2017-7374
+    severity: high
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-7374
+  - id: CVE-2017-5897
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-5897
+  - id: CVE-2017-5970
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-5970
+  - id: CVE-2017-5669
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-5669
+  - id: CVE-2017-5986
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-5986
+  - id: CVE-2017-6214
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-6214
+  - id: CVE-2017-6345
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-6345
+  - id: CVE-2017-6346
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-6346
+  - id: CVE-2017-6347
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-6347
+  - id: CVE-2017-6348
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-6348
+  packages:
+  - distro: "14.04"
+    packages:
+    - name: linux-image-powerpc-smp-lts-xenial
+      version: 4.4.0.75.62
+    - name: linux-image-generic-lpae-lts-xenial
+      version: 4.4.0.75.62
+    - name: linux-image-4.4.0-75-generic
+      version: 4.4.0-75.96~14.04.1
+    - name: linux-image-4.4.0-75-powerpc64-smp
+      version: 4.4.0-75.96~14.04.1
+    - name: linux-image-lowlatency-lts-xenial
+      version: 4.4.0.75.62
+    - name: linux-image-powerpc64-smp-lts-xenial
+      version: 4.4.0.75.62
+    - name: linux-image-4.4.0-75-lowlatency
+      version: 4.4.0-75.96~14.04.1
+    - name: linux-image-4.4.0-75-generic-lpae
+      version: 4.4.0-75.96~14.04.1
+    - name: linux-image-4.4.0-75-powerpc-smp
+      version: 4.4.0-75.96~14.04.1
+    - name: linux-image-generic-lts-xenial
+      version: 4.4.0.75.62
+    - name: linux-image-4.4.0-75-powerpc-e500mc
+      version: 4.4.0-75.96~14.04.1
+    - name: linux-image-powerpc-e500mc-lts-xenial
+      version: 4.4.0.75.62
+  severity: high
+  source_uri: http://www.ubuntu.com/usn/usn-3265-2/
+  title: 'USN-3265-2: Linux kernel (Xenial HWE) vulnerabilities'
+source_id: USN-3265-2
+type: usn
