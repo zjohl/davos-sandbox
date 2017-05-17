@@ -1,0 +1,63 @@
+date_published: 2017-04-04T00:00:00Z
+date_received: 2017-05-17T15:33:36Z
+details:
+  cves:
+  - id: CVE-2017-7308
+    severity: high
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-7308
+  packages:
+  - distro: "16.04"
+    packages:
+    - name: linux-image-4.8.0-46-lowlatency
+      version: 4.8.0-46.49~16.04.1
+    - name: linux-image-lowlatency-hwe-16.04
+      version: 4.8.0.46.18
+    - name: linux-image-4.8.0-46-generic-lpae
+      version: 4.8.0-46.49~16.04.1
+    - name: linux-image-generic-hwe-16.04
+      version: 4.8.0.46.18
+    - name: linux-image-4.8.0-46-generic
+      version: 4.8.0-46.49~16.04.1
+    - name: linux-image-generic-lpae-hwe-16.04
+      version: 4.8.0.46.18
+  - distro: "14.04"
+    packages:
+    - name: linux-image-powerpc-smp-lts-xenial
+      version: 4.4.0.72.59
+    - name: linux-image-4.4.0-72-generic
+      version: 4.4.0-72.93~14.04.1
+    - name: linux-image-4.4.0-72-powerpc-smp
+      version: 4.4.0-72.93~14.04.1
+    - name: linux-image-4.4.0-72-powerpc-e500mc
+      version: 4.4.0-72.93~14.04.1
+    - name: linux-image-generic-lpae-lts-xenial
+      version: 4.4.0.72.59
+    - name: linux-image-4.4.0-72-generic-lpae
+      version: 4.4.0-72.93~14.04.1
+    - name: linux-image-4.4.0-72-lowlatency
+      version: 4.4.0-72.93~14.04.1
+    - name: linux-image-lowlatency-lts-xenial
+      version: 4.4.0.72.59
+    - name: linux-image-generic-lts-xenial
+      version: 4.4.0.72.59
+    - name: linux-image-powerpc64-smp-lts-xenial
+      version: 4.4.0.72.59
+    - name: linux-image-4.4.0-72-powerpc64-smp
+      version: 4.4.0-72.93~14.04.1
+    - name: linux-image-powerpc-e500mc-lts-xenial
+      version: 4.4.0.72.59
+  - distro: "12.04"
+    packages:
+    - name: linux-image-generic-lpae-lts-trusty
+      version: 3.13.0.116.107
+    - name: linux-image-3.13.0-116-generic
+      version: 3.13.0-116.163~precise1
+    - name: linux-image-generic-lts-trusty
+      version: 3.13.0.116.107
+    - name: linux-image-3.13.0-116-generic-lpae
+      version: 3.13.0-116.163~precise1
+  severity: high
+  source_uri: http://www.ubuntu.com/usn/usn-3256-2/
+  title: 'USN-3256-2: Linux kernel (HWE) vulnerability'
+source_id: USN-3256-2
+type: usn
