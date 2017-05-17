@@ -1,0 +1,78 @@
+date_published: 2017-04-28T00:00:00Z
+date_received: 2017-05-17T15:33:21Z
+details:
+  cves:
+  - id: CVE-2017-8291
+    severity: high
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-8291
+  - id: CVE-2016-10217
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-10217
+  - id: CVE-2016-10219
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-10219
+  - id: CVE-2016-10220
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-10220
+  - id: CVE-2017-5951
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-5951
+  - id: CVE-2017-7207
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-7207
+  packages:
+  - distro: "17.04"
+    packages:
+    - name: ghostscript-x
+      version: 9.19~dfsg+1-0ubuntu7.2
+    - name: ghostscript
+      version: 9.19~dfsg+1-0ubuntu7.2
+    - name: libgs9
+      version: 9.19~dfsg+1-0ubuntu7.2
+    - name: libgs9-common
+      version: 9.19~dfsg+1-0ubuntu7.2
+  - distro: "16.10"
+    packages:
+    - name: ghostscript-x
+      version: 9.19~dfsg+1-0ubuntu6.4
+    - name: ghostscript
+      version: 9.19~dfsg+1-0ubuntu6.4
+    - name: libgs9
+      version: 9.19~dfsg+1-0ubuntu6.4
+    - name: libgs9-common
+      version: 9.19~dfsg+1-0ubuntu6.4
+  - distro: "16.04"
+    packages:
+    - name: ghostscript-x
+      version: 9.18~dfsg~0-0ubuntu2.4
+    - name: ghostscript
+      version: 9.18~dfsg~0-0ubuntu2.4
+    - name: libgs9
+      version: 9.18~dfsg~0-0ubuntu2.4
+    - name: libgs9-common
+      version: 9.18~dfsg~0-0ubuntu2.4
+  - distro: "14.04"
+    packages:
+    - name: ghostscript-x
+      version: 9.10~dfsg-0ubuntu10.7
+    - name: ghostscript
+      version: 9.10~dfsg-0ubuntu10.7
+    - name: libgs9
+      version: 9.10~dfsg-0ubuntu10.7
+    - name: libgs9-common
+      version: 9.10~dfsg-0ubuntu10.7
+  - distro: "12.04"
+    packages:
+    - name: ghostscript-x
+      version: 9.05~dfsg-0ubuntu4.5
+    - name: ghostscript
+      version: 9.05~dfsg-0ubuntu4.5
+    - name: libgs9
+      version: 9.05~dfsg-0ubuntu4.5
+    - name: libgs9-common
+      version: 9.05~dfsg-0ubuntu4.5
+  severity: high
+  source_uri: http://www.ubuntu.com/usn/usn-3272-1/
+  title: 'USN-3272-1: Ghostscript vulnerabilities'
+source_id: USN-3272-1
+type: usn
