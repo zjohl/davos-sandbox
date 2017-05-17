@@ -1,0 +1,179 @@
+date_published: 2017-04-20T00:00:00Z
+date_received: 2017-05-17T15:33:33Z
+details:
+  cves:
+  - id: CVE-2016-10028
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-10028
+  - id: CVE-2016-10029
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-10029
+  - id: CVE-2016-10155
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-10155
+  - id: CVE-2016-7907
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-7907
+  - id: CVE-2016-8667
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-8667
+  - id: CVE-2016-8669
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-8669
+  - id: CVE-2016-9381
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-9381
+  - id: CVE-2016-9602
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-9602
+  - id: CVE-2016-9603
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-9603
+  - id: CVE-2016-9776
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-9776
+  - id: CVE-2016-9845
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-9845
+  - id: CVE-2016-9908
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-9908
+  - id: CVE-2016-9846
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-9846
+  - id: CVE-2016-9912
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-9912
+  - id: CVE-2017-5552
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-5552
+  - id: CVE-2017-5578
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-5578
+  - id: CVE-2017-5857
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-5857
+  - id: CVE-2016-9907
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-9907
+  - id: CVE-2016-9911
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-9911
+  - id: CVE-2016-9913
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-9913
+  - id: CVE-2016-9914
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-9914
+  - id: CVE-2016-9915
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-9915
+  - id: CVE-2016-9916
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-9916
+  - id: CVE-2016-9921
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-9921
+  - id: CVE-2016-9922
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-9922
+  - id: CVE-2017-2615
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-2615
+  - id: CVE-2017-2620
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-2620
+  - id: CVE-2017-2633
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-2633
+  - id: CVE-2017-5525
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-5525
+  - id: CVE-2017-5526
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-5526
+  - id: CVE-2017-5579
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-5579
+  - id: CVE-2017-5667
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-5667
+  - id: CVE-2017-5856
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-5856
+  - id: CVE-2017-5898
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-5898
+  - id: CVE-2017-5973
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-5973
+  - id: CVE-2017-5987
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-5987
+  - id: CVE-2017-6505
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-6505
+  packages:
+  - distro: "16.10"
+    packages:
+    - name: qemu-system-s390x
+      version: 1:2.6.1+dfsg-0ubuntu5.4
+    - name: qemu-system-misc
+      version: 1:2.6.1+dfsg-0ubuntu5.4
+    - name: qemu-system
+      version: 1:2.6.1+dfsg-0ubuntu5.4
+    - name: qemu-system-aarch64
+      version: 1:2.6.1+dfsg-0ubuntu5.4
+    - name: qemu-system-x86
+      version: 1:2.6.1+dfsg-0ubuntu5.4
+    - name: qemu-system-sparc
+      version: 1:2.6.1+dfsg-0ubuntu5.4
+    - name: qemu-system-arm
+      version: 1:2.6.1+dfsg-0ubuntu5.4
+    - name: qemu-system-ppc
+      version: 1:2.6.1+dfsg-0ubuntu5.4
+    - name: qemu-system-mips
+      version: 1:2.6.1+dfsg-0ubuntu5.4
+  - distro: "16.04"
+    packages:
+    - name: qemu-system-s390x
+      version: 1:2.5+dfsg-5ubuntu10.11
+    - name: qemu-system-misc
+      version: 1:2.5+dfsg-5ubuntu10.11
+    - name: qemu-system
+      version: 1:2.5+dfsg-5ubuntu10.11
+    - name: qemu-system-aarch64
+      version: 1:2.5+dfsg-5ubuntu10.11
+    - name: qemu-system-x86
+      version: 1:2.5+dfsg-5ubuntu10.11
+    - name: qemu-system-sparc
+      version: 1:2.5+dfsg-5ubuntu10.11
+    - name: qemu-system-arm
+      version: 1:2.5+dfsg-5ubuntu10.11
+    - name: qemu-system-ppc
+      version: 1:2.5+dfsg-5ubuntu10.11
+    - name: qemu-system-mips
+      version: 1:2.5+dfsg-5ubuntu10.11
+  - distro: "14.04"
+    packages:
+    - name: qemu-system-misc
+      version: 2.0.0+dfsg-2ubuntu1.33
+    - name: qemu-system
+      version: 2.0.0+dfsg-2ubuntu1.33
+    - name: qemu-system-aarch64
+      version: 2.0.0+dfsg-2ubuntu1.33
+    - name: qemu-system-x86
+      version: 2.0.0+dfsg-2ubuntu1.33
+    - name: qemu-system-sparc
+      version: 2.0.0+dfsg-2ubuntu1.33
+    - name: qemu-system-arm
+      version: 2.0.0+dfsg-2ubuntu1.33
+    - name: qemu-system-ppc
+      version: 2.0.0+dfsg-2ubuntu1.33
+    - name: qemu-system-mips
+      version: 2.0.0+dfsg-2ubuntu1.33
+  severity: medium
+  source_uri: http://www.ubuntu.com/usn/usn-3261-1/
+  title: 'USN-3261-1: QEMU vulnerabilities'
+source_id: USN-3261-1
+type: usn
