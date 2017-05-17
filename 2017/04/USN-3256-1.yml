@@ -1,0 +1,157 @@
+date_published: 2017-04-04T00:00:00Z
+date_received: 2017-05-17T15:33:36Z
+details:
+  cves:
+  - id: CVE-2017-7308
+    severity: high
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-7308
+  packages:
+  - distro: "16.10"
+    packages:
+    - name: linux-image-powerpc-smp
+      version: 4.8.0.46.58
+    - name: linux-image-powerpc-e500mc
+      version: 4.8.0.46.58
+    - name: linux-image-generic
+      version: 4.8.0.46.58
+    - name: linux-image-4.8.0-46-lowlatency
+      version: 4.8.0-46.49
+    - name: linux-image-4.8.0-46-generic-lpae
+      version: 4.8.0-46.49
+    - name: linux-image-4.8.0-46-powerpc-smp
+      version: 4.8.0-46.49
+    - name: linux-image-4.8.0-1033-raspi2
+      version: 4.8.0-1033.36
+    - name: linux-image-4.8.0-46-powerpc-e500mc
+      version: 4.8.0-46.49
+    - name: linux-image-generic-lpae
+      version: 4.8.0.46.58
+    - name: linux-image-4.8.0-46-powerpc64-emb
+      version: 4.8.0-46.49
+    - name: linux-image-4.8.0-46-generic
+      version: 4.8.0-46.49
+    - name: linux-image-lowlatency
+      version: 4.8.0.46.58
+    - name: linux-image-raspi2
+      version: 4.8.0.1033.37
+    - name: linux-image-powerpc64-smp
+      version: 4.8.0.46.58
+  - distro: "16.04"
+    packages:
+    - name: linux-image-powerpc-e500mc
+      version: 4.4.0.72.78
+    - name: linux-image-4.4.0-72-lowlatency
+      version: 4.4.0-72.93
+    - name: linux-image-4.4.0-72-powerpc-smp
+      version: 4.4.0-72.93
+    - name: linux-image-4.4.0-72-powerpc-e500mc
+      version: 4.4.0-72.93
+    - name: linux-image-4.4.0-1055-snapdragon
+      version: 4.4.0-1055.59
+    - name: linux-image-powerpc64-smp-lts-utopic
+      version: 4.4.0.72.78
+    - name: linux-image-4.4.0-72-generic
+      version: 4.4.0-72.93
+    - name: linux-image-4.4.0-72-generic-lpae
+      version: 4.4.0-72.93
+    - name: linux-image-powerpc64-smp-lts-xenial
+      version: 4.4.0.72.78
+    - name: linux-image-4.4.0-72-powerpc64-smp
+      version: 4.4.0-72.93
+    - name: linux-image-gke
+      version: 4.4.0.1010.12
+    - name: linux-image-powerpc64-smp-lts-vivid
+      version: 4.4.0.72.78
+    - name: linux-image-generic
+      version: 4.4.0.72.78
+    - name: linux-image-snapdragon
+      version: 4.4.0.1055.48
+    - name: linux-image-aws
+      version: 4.4.0.1013.16
+    - name: linux-image-raspi2
+      version: 4.4.0.1052.53
+    - name: linux-image-powerpc-smp
+      version: 4.4.0.72.78
+    - name: linux-image-4.4.0-1052-raspi2
+      version: 4.4.0-1052.59
+    - name: linux-image-generic-lpae
+      version: 4.4.0.72.78
+    - name: linux-image-powerpc64-smp-lts-wily
+      version: 4.4.0.72.78
+    - name: linux-image-4.4.0-1013-aws
+      version: 4.4.0-1013.22
+    - name: linux-image-4.4.0-1010-gke
+      version: 4.4.0-1010.10
+    - name: linux-image-powerpc64-smp
+      version: 4.4.0.72.78
+    - name: linux-image-lowlatency
+      version: 4.4.0.72.78
+  - distro: "14.04"
+    packages:
+    - name: linux-image-powerpc-smp
+      version: 3.13.0.116.126
+    - name: linux-image-powerpc-e500mc
+      version: 3.13.0.116.126
+    - name: linux-image-generic
+      version: 3.13.0.116.126
+    - name: linux-image-generic-lpae
+      version: 3.13.0.116.126
+    - name: linux-image-3.13.0-116-powerpc64-smp
+      version: 3.13.0-116.163
+    - name: linux-image-3.13.0-116-powerpc-e500mc
+      version: 3.13.0-116.163
+    - name: linux-image-3.13.0-116-lowlatency
+      version: 3.13.0-116.163
+    - name: linux-image-powerpc-e500
+      version: 3.13.0.116.126
+    - name: linux-image-3.13.0-116-generic
+      version: 3.13.0-116.163
+    - name: linux-image-3.13.0-116-powerpc-e500
+      version: 3.13.0-116.163
+    - name: linux-image-3.13.0-116-powerpc-smp
+      version: 3.13.0-116.163
+    - name: linux-image-powerpc64-smp
+      version: 3.13.0.116.126
+    - name: linux-image-lowlatency
+      version: 3.13.0.116.126
+    - name: linux-image-3.13.0-116-generic-lpae
+      version: 3.13.0-116.163
+  - distro: "12.04"
+    packages:
+    - name: linux-image-3.2.0-126-virtual
+      version: 3.2.0-126.169
+    - name: linux-image-3.2.0-126-highbank
+      version: 3.2.0-126.169
+    - name: linux-image-3.2.0-1504-omap4
+      version: 3.2.0-1504.131
+    - name: linux-image-3.2.0-126-generic-pae
+      version: 3.2.0-126.169
+    - name: linux-image-powerpc-smp
+      version: 3.2.0.126.141
+    - name: linux-image-generic
+      version: 3.2.0.126.141
+    - name: linux-image-3.2.0-126-omap
+      version: 3.2.0-126.169
+    - name: linux-image-3.2.0-126-generic
+      version: 3.2.0-126.169
+    - name: linux-image-generic-pae
+      version: 3.2.0.126.141
+    - name: linux-image-highbank
+      version: 3.2.0.126.141
+    - name: linux-image-3.2.0-126-powerpc64-smp
+      version: 3.2.0-126.169
+    - name: linux-image-powerpc64-smp
+      version: 3.2.0.126.141
+    - name: linux-image-omap4
+      version: 3.2.0.1504.99
+    - name: linux-image-3.2.0-126-powerpc-smp
+      version: 3.2.0-126.169
+    - name: linux-image-omap
+      version: 3.2.0.126.141
+    - name: linux-image-virtual
+      version: 3.2.0.126.141
+  severity: high
+  source_uri: http://www.ubuntu.com/usn/usn-3256-1/
+  title: 'USN-3256-1: Linux kernel vulnerability'
+source_id: USN-3256-1
+type: usn
