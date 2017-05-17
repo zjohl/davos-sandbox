@@ -1,0 +1,40 @@
+date_published: 2017-05-17T00:00:00Z
+date_received: 2017-05-17T18:45:57Z
+details:
+  cves:
+  - id: CVE-2017-7187
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-7187
+  - id: CVE-2017-7261
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-7261
+  - id: CVE-2017-7294
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-7294
+  - id: CVE-2017-7616
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-7616
+  packages:
+  - distro: "16.04"
+    packages:
+    - name: linux-image-gke
+      version: 4.4.0.1013.15
+    - name: linux-image-4.4.0-1013-gke
+      version: 4.4.0-1013.13
+    - name: linux-image-4.4.0-1017-aws
+      version: 4.4.0-1017.26
+    - name: linux-image-4.4.0-1058-snapdragon
+      version: 4.4.0-1058.62
+    - name: linux-image-snapdragon
+      version: 4.4.0.1058.51
+    - name: linux-image-aws
+      version: 4.4.0.1017.20
+    - name: linux-image-4.4.0-1055-raspi2
+      version: 4.4.0-1055.62
+    - name: linux-image-raspi2
+      version: 4.4.0.1055.56
+  severity: medium
+  source_uri: http://www.ubuntu.com/usn/usn-3291-2/
+  title: 'USN-3291-2: Linux kernel vulnerabilities'
+source_id: USN-3291-2
+type: usn
