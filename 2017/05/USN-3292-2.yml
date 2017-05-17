@@ -1,0 +1,27 @@
+date_published: 2017-05-16T00:00:00Z
+date_received: 2017-05-17T15:33:11Z
+details:
+  cves:
+  - id: CVE-2017-7477
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-7477
+  packages:
+  - distro: "16.04"
+    packages:
+    - name: linux-image-4.8.0-52-lowlatency
+      version: 4.8.0-52.55~16.04.1
+    - name: linux-image-generic-hwe-16.04
+      version: 4.8.0.52.23
+    - name: linux-image-4.8.0-52-generic-lpae
+      version: 4.8.0-52.55~16.04.1
+    - name: linux-image-lowlatency-hwe-16.04
+      version: 4.8.0.52.23
+    - name: linux-image-4.8.0-52-generic
+      version: 4.8.0-52.55~16.04.1
+    - name: linux-image-generic-lpae-hwe-16.04
+      version: 4.8.0.52.23
+  severity: medium
+  source_uri: http://www.ubuntu.com/usn/usn-3292-2/
+  title: 'USN-3292-2: Linux kernel (HWE) vulnerability'
+source_id: USN-3292-2
+type: usn
