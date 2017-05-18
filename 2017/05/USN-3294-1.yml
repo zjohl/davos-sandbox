@@ -1,0 +1,38 @@
+date_published: 2017-05-17T00:00:00Z
+date_received: 2017-05-18T14:19:48Z
+details:
+  cves:
+  - id: CVE-2016-0634
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-0634
+  - id: CVE-2016-7543
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-7543
+  - id: CVE-2016-9401
+    severity: negligible
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2016-9401
+  - id: CVE-2017-5932
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-5932
+  packages:
+  - distro: "17.04"
+    packages:
+    - name: bash
+      version: 4.4-2ubuntu1.1
+  - distro: "16.10"
+    packages:
+    - name: bash
+      version: 4.3-15ubuntu1.1
+  - distro: "16.04"
+    packages:
+    - name: bash
+      version: 4.3-14ubuntu1.2
+  - distro: "14.04"
+    packages:
+    - name: bash
+      version: 4.3-7ubuntu1.7
+  severity: medium
+  source_uri: http://www.ubuntu.com/usn/usn-3294-1/
+  title: 'USN-3294-1: Bash vulnerabilities'
+source_id: USN-3294-1
+type: usn
