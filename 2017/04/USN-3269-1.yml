@@ -1,0 +1,98 @@
+date_published: 2017-04-27T00:00:00Z
+date_received: 2017-05-18T14:59:20Z
+details:
+  cves:
+  - id: CVE-2017-3302
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-3302
+  - id: CVE-2017-3305
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-3305
+  - id: CVE-2017-3308
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-3308
+  - id: CVE-2017-3309
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-3309
+  - id: CVE-2017-3329
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-3329
+  - id: CVE-2017-3331
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-3331
+  - id: CVE-2017-3450
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-3450
+  - id: CVE-2017-3453
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-3453
+  - id: CVE-2017-3454
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-3454
+  - id: CVE-2017-3455
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-3455
+  - id: CVE-2017-3456
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-3456
+  - id: CVE-2017-3457
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-3457
+  - id: CVE-2017-3458
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-3458
+  - id: CVE-2017-3459
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-3459
+  - id: CVE-2017-3460
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-3460
+  - id: CVE-2017-3461
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-3461
+  - id: CVE-2017-3462
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-3462
+  - id: CVE-2017-3463
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-3463
+  - id: CVE-2017-3464
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-3464
+  - id: CVE-2017-3465
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-3465
+  - id: CVE-2017-3467
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-3467
+  - id: CVE-2017-3468
+    severity: low
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-3468
+  - id: CVE-2017-3599
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-3599
+  - id: CVE-2017-3600
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-3600
+  packages:
+  - distro: "17.04"
+    packages:
+    - name: mysql-server-5.7
+      version: 5.7.18-0ubuntu0.17.04.1
+  - distro: "16.10"
+    packages:
+    - name: mysql-server-5.7
+      version: 5.7.18-0ubuntu0.16.10.1
+  - distro: "16.04"
+    packages:
+    - name: mysql-server-5.7
+      version: 5.7.18-0ubuntu0.16.04.1
+  - distro: "14.04"
+    packages:
+    - name: mysql-server-5.5
+      version: 5.5.55-0ubuntu0.14.04.1
+  severity: medium
+  source_uri: http://www.ubuntu.com/usn/usn-3269-1/
+  title: 'USN-3269-1: MySQL vulnerabilities'
+source_id: USN-3269-1
+type: usn
