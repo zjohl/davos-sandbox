@@ -1,0 +1,43 @@
+date_published: 2017-04-24T00:00:00Z
+date_received: 2017-05-18T14:59:23Z
+details:
+  cves:
+  - id: CVE-2017-5986
+    severity: medium
+    uri: http://people.ubuntu.com/~ubuntu-security/cve/CVE-2017-5986
+  packages:
+  - distro: "14.04"
+    packages:
+    - name: linux-image-powerpc-smp
+      version: 3.13.0.117.127
+    - name: linux-image-powerpc-e500mc
+      version: 3.13.0.117.127
+    - name: linux-image-3.13.0-117-generic-lpae
+      version: 3.13.0-117.164
+    - name: linux-image-3.13.0-117-lowlatency
+      version: 3.13.0-117.164
+    - name: linux-image-generic
+      version: 3.13.0.117.127
+    - name: linux-image-3.13.0-117-powerpc-e500mc
+      version: 3.13.0-117.164
+    - name: linux-image-3.13.0-117-powerpc64-smp
+      version: 3.13.0-117.164
+    - name: linux-image-powerpc-e500
+      version: 3.13.0.117.127
+    - name: linux-image-powerpc64-smp
+      version: 3.13.0.117.127
+    - name: linux-image-generic-lpae
+      version: 3.13.0.117.127
+    - name: linux-image-3.13.0-117-powerpc-e500
+      version: 3.13.0-117.164
+    - name: linux-image-3.13.0-117-generic
+      version: 3.13.0-117.164
+    - name: linux-image-lowlatency
+      version: 3.13.0.117.127
+    - name: linux-image-3.13.0-117-powerpc-smp
+      version: 3.13.0-117.164
+  severity: medium
+  source_uri: http://www.ubuntu.com/usn/usn-3264-1/
+  title: 'USN-3264-1: Linux kernel vulnerability'
+source_id: USN-3264-1
+type: usn
